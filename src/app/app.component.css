@@ -1,0 +1,152 @@
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+
+#header {
+    padding: 30px 0;
+    height:90px;
+    position:absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    transition: all 0.5s;
+    z-index: 997;
+      background:#000645;
+  
+  }
+  
+  
+
+  #header #logo h1 a,
+  #header #logo h1 a:hover {
+    color: #fff;
+    text-decoration: none;
+    padding-left: 10px;
+    font-size: 25px;
+  }
+  
+  .row {
+    display: inline-block;
+    display: table-cell;
+
+}
+  
+.contentNDC{
+    width: 1140px;
+    margin: auto;
+    margin-top: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.nameclient{
+  background-color: white;
+    width: 950px;
+      height: 250px;
+margin-left: 110px;}
+body {
+  background-color: #F6F7FC;
+}
+.contentCLIENT{
+  margin-left: 60px;
+  padding-top: 30px;
+}
+.name{
+  font-family: Poppins;
+  font-weight:bold;
+  font-size: 18px;
+}
+.backslection{
+  background-color: #394674;
+  color: white;
+}
+.inputpath{
+  margin-top: 30px;
+  width:800px;
+  height: 30px;
+}
+select.form-control[multiple], select.form-control[size] {
+    height: auto;
+    padding: 0;
+    width: 800px;
+}
+.typeaudit{
+ width: 540px;
+    margin: auto;
+    margin-top: 30px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin-left: 100px;
+}
+#contentAudit{
+      width: 350px;
+      height: 180px;
+
+}
+.inputaudit{
+  width: 450px;
+    margin: auto;
+    margin-top: 100px;
+    height: 1170px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.nameaudit{
+   background-color: white;
+  width: 462px;
+  height: 280px;
+}
+.nameAuditt{
+  color: #8C93AC;
+  font-family: Poppins;
+  font-weight:inherit;
+  font-size: 18px;
+  padding-top: 50px;
+    padding-left: 35px;
+}
+.nameAudi{
+  color: #8C93AC;
+  font-family: Poppins;
+  font-weight:inherit;
+  font-size: 18px;
+}
+.contentAUDIT{
+    padding-top: 30px;
+  margin-left: 30px;
+
+}
+.rowone{
+  background-color: white;
+}
+.progression{
+  width: 540px;
+    margin: auto;
+    margin-top: 30px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+margin-left: 300px;
+}
+.content3{
+  width: 1140px;
+    margin: auto;
+    height: 1500px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin-top: 30px;
+}
+.name3{
+  
+  background-color: white;
+    width: 950px;
+    height: 350px;
+    margin-left: 110px;
+}
+.ok
+{
+    background-color: #394674;
+}
+button{
+  width: 150px;
+  font-size: 20px;
+
+}
